@@ -1,8 +1,7 @@
 import '../../../Assets/Style.css';
 import msword_quiz from '../../../Questions/MS_Word/Word_Questions'
 import React from 'react';
-import { Component } from 'react/cjs/react.production.min';
-
+import { Component } from 'react';
 class WordQuiz extends Component{
   constructor(){
     super();
