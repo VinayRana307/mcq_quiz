@@ -12,7 +12,7 @@ class WordQuiz extends Component{
     render(){
         return(
             <div className="App">
-             <span className="link" ><a href="/computersquiz">Home</a></span>
+             <span className="link" ><a href="/mcq_quiz">Home</a></span>
             <marquee className="intro">Powered by <spam id="vinay">Vinay Rana</spam> & <spam id="amit">Amit kumar</spam>...</marquee>
             <h1 text-align="center"><u><i><b>Computer MS Word MCQ Questions</b></i></u></h1>
             
