@@ -9,8 +9,8 @@ export default function Router() {
     <BrowserRouter>
       <Routes>
           <Route path = "/" component = {App}>
-            <Route path="/computersquiz/msword" element={<WordQuiz />} />
-            <Route path="/computersquiz" element={<HomePage />} />
+            <Route path="mcq_quiz/msword" element={<WordQuiz />} />
+            <Route path="/mcq_quiz" element={<HomePage />} />
           </Route>
       </Routes>
     </BrowserRouter>
