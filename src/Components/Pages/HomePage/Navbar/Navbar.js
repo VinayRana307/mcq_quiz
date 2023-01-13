@@ -21,14 +21,14 @@ function NavScrollExample() {
             <Nav.Link href="#action1">signup</Nav.Link>
             <Nav.Link href="#action2">login</Nav.Link>
             <NavDropdown title="MCQ" id="navbarScrollingDropdown" className="homelink">
-              <NavDropdown.Item href="/mcq_quiz/msword" className="link">MS Word</NavDropdown.Item>
-              <NavDropdown.Item href="/mcq_quiz/msword" className="link">MS Excel</NavDropdown.Item>
-              <NavDropdown.Item href="/mcq_quiz/msword" className="link">MS Powerpoint</NavDropdown.Item>
-              <NavDropdown.Item href="/mcq_quiz/msword" className="link">MS Access</NavDropdown.Item>
-              <NavDropdown.Item href="/mcq_quiz/msword" className="link">Computer Networking</NavDropdown.Item>
-              <NavDropdown.Item href="/mcq_quiz/msword" className="link">DataBase</NavDropdown.Item>
-              <NavDropdown.Item href="/mcq_quiz/msword" className="link">Computer Fundamental</NavDropdown.Item>
-              <NavDropdown.Item href="/mcq_quiz/msword" className="link">MS Access</NavDropdown.Item>
+              <NavDropdown.Item href="#/msword" className="link">MS Word</NavDropdown.Item>
+              <NavDropdown.Item href="#/msword" className="link">MS Excel</NavDropdown.Item>
+              <NavDropdown.Item href="#/msword" className="link">MS Powerpoint</NavDropdown.Item>
+              <NavDropdown.Item href="#/msword" className="link">MS Access</NavDropdown.Item>
+              <NavDropdown.Item href="#/msword" className="link">Computer Networking</NavDropdown.Item>
+              <NavDropdown.Item href="#/msword" className="link">DataBase</NavDropdown.Item>
+              <NavDropdown.Item href="#/msword" className="link">Computer Fundamental</NavDropdown.Item>
+              <NavDropdown.Item href="#/msword" className="link">MS Access</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="#action5">
                 Something else here
