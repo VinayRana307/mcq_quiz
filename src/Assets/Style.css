@@ -1,0 +1,37 @@
+.Questions{
+  text-align: left;
+  margin: 0% 0% 0% 5%;
+}
+h1{
+  color:purple;
+}
+.answer{
+  display: contents;
+  color:red;
+}
+.intro{
+  font-size: 20px;
+  margin:4px 0px 0px 0px;
+}
+#vinay{
+  color:blue;
+}
+#amit{
+  color:magenta;
+}
+.link{
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 4;
+    background-color: honeydew;
+}
+#navbarScrollingDropdown{
+    color: white;
+}
+.homelink nav-link a{
+    color:white !important;
+}
+.me-auto my-2 my-lg-0 navbar-nav navbar-nav-scroll a{
+    color: white;
+}
